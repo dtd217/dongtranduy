@@ -10,8 +10,7 @@ for (let i = 0; i < faqHeader.length; i++) {
       }
       else {
          faqHeader[i].classList.add("active")
-         faqContent[i].style.display = ''
+         faqContent[i].style.display = 'block'
       }
    })
 }
-

@@ -48,6 +48,7 @@ body {
 #main #faq .main-content section .faq-header span:nth-child(2) {
   font-size: 28px;
   font-weight: 900;
+  user-select: none;
 }
 
 #main #faq .main-content section .faq-content {
